@@ -28,4 +28,4 @@ All financial data is retrieved from the WRDS (Wharton Research Data Services) C
 3. Launch the interactive dashboard with the command: streamlit run SRC/app.py
 
 ## Public Access Link
-[Paste your Streamlit Cloud deployment link here after deployment]
+http://localhost:8501
