@@ -25,7 +25,6 @@ All financial data is retrieved from the WRDS (Wharton Research Data Services) C
 ## How to Run Locally
 1. Ensure Python 3.8+ is installed on your device
 2. Install required dependencies with the command: pip install -r requirements.txt
-3. Launch the interactive dashboard with the command: streamlit run SRC/app.py
-
+3. Launch the interactive dashboard with the command: python3 -m streamlit run SRC/app.py
 ## Public Access Link
 http://localhost:8501
