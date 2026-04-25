@@ -1,4 +1,7 @@
- # ACC102 Automotive Financial Analysis Dashboard: Tesla vs. Toyota (2020–2025)
+# ACC102-Track4
+A Python Streamlit interactive dashboard analyzing &amp; visualizing key financial ratios of Tesla (TSLA) and Toyota (TM) over 2020-2025 WRDS dataset for ACC102 coursework.
+# ACC102 Track4: Tesla vs Toyota Financial Performance Interactive Dashboard
+
 
 ## 1. Problem & User
 This interactive dashboard addresses the need to move beyond static accounting ratio calculations, enabling a dynamic, real-world comparison of traditional and new energy automaker business models. It is designed for ACC102 course instructors, undergraduate accounting/finance students, and industry analysts seeking a transparent, customisable cross-firm financial benchmarking tool.
